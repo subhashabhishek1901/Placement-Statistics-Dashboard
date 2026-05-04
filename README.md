@@ -11,6 +11,7 @@ Built using **Excel, SQL, and Power BI**, this dashboard converts raw placement 
 ## 🖼️ Dashboard Preview
 
 ![Alt Image](https://github.com/subhashabhishek1901/Placement-Statistics-Dashboard/blob/9527ec14efe35d252653a91a070af0e7f3b55de2/Placement%20Statistics%20Dashboard.png)
+![Alt Image](https://github.com/subhashabhishek1901/Placement-Statistics-Dashboard/blob/5147ff087ee663bc37b5d50516b0f1d61dbbca49/Discriptive%20Analysis.png)
 
 ---
 
