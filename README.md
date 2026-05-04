@@ -15,7 +15,7 @@ Built using **Excel, SQL, and Power BI**, this dashboard converts raw placement 
 
 ---
 
-## 🎯 Key Metrics
+## Key Metrics
 
 * 👨‍🎓 **20,000** Total Students
 * 📊 **79%** Placement Rate
@@ -47,8 +47,8 @@ Built using **Excel, SQL, and Power BI**, this dashboard converts raw placement 
 
 ### 🎓 Placement Status
 
-* ✅ **Placed Students:** ~16,000
-* ❌ **Not Placed:** ~4,000
+*  **Placed Students:** ~16,000
+*  **Not Placed:** ~4,000
 * Strong overall placement performance
 
 ---
@@ -76,8 +76,8 @@ Built using **Excel, SQL, and Power BI**, this dashboard converts raw placement 
 
 ### 👥 Gender Distribution
 
-* 👩 Female: **9,953**
-* 👨 Male: **10,047**
+* Female: **9,953**
+* Male: **10,047**
 * Nearly balanced gender representation
 
 ---
@@ -114,13 +114,13 @@ Built using **Excel, SQL, and Power BI**, this dashboard converts raw placement 
 
 ## 🛠️ Tools & Technologies
 
-* 📊 **Microsoft Excel** – Data Cleaning & Preparation
-* 📈 **Power BI** – Data Visualization & Dashboard Design
-* 🗄️ **SQL** – Data Querying & Transformation
+* **Microsoft Excel** – Data Cleaning & Preparation
+* **Power BI** – Data Visualization & Dashboard Design
+* **SQL** – Data Querying & Transformation
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning & Transformation
 * Data Modeling
