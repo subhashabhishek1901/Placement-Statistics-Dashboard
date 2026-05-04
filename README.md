@@ -142,7 +142,7 @@ placement-statistics-dashboard/
 │   └── Placement Statistics Dashboard.pbix
 │
 ├── dataset/
-│   └── placement_Dashboard.xlsx
+│   └── placement_Dataset.xlsx
 │
 ├── images/
 │   └── dashboard.png
